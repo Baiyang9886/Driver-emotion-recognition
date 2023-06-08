@@ -19,3 +19,6 @@ To verify that the proposed driver emotion recognition method can adapt to diffe
 
 ### Dataset download link
 The MLI-DER dataset has been publicly released to all researchers of the relevant fields. The download link for the dataset is: https://drive.google.com/drive/folders/1iDa5qV8viq-MjnlWqeQkJdTJEB576YCr?usp=drive_link
+
+### Citation
+[Related papers are about to be published]
