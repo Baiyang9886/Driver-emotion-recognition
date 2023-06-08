@@ -10,8 +10,8 @@ Multiple light intensities driver emotion recognition (MLI-DER) dataset
 
 | Data acquisition system | Representative samples |
 | ---------- | -----------|
-| 表格单元   | 表格单元   |
-| 表格单元   | 表格单元   |
+| ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) | ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/sample.jpg)|
+| Fig. 1 The data acquisition system of the MLI-DER dataset. | Fig. 2 Sample presentation of the MLI-DER dataset. In the figure, the four columns of samples are collected under the light intensity of dark, normal, little bright and very bright, respectively. In addition, the first row is image with neutral expression, the second row is image with negative expression, and the third row is image with positive expression. |
 
 </div>
 
