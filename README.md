@@ -3,7 +3,7 @@ A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separati
 
 Since emotions generally affect driver's behavior, judgment, and reaction time, accurately identifying driver's emotions is of great significance to improve the safety and comfort of intelligent driving system. However, the gender, skin color, age, and appearance of different drivers often have big differences, which will greatly interfere with the emotional recognition process. Besides, light intensity inside the vehicle varies with different time, weather, and location, which will also pose a challenge to driver emotion recognition. In this paper, a robust driver emotion recognition method based on feature separation is proposed to overcome the interference of individual differences and illumination changes. In order to realize the separation of expression-related features and irrelevant features, we design a high-purity feature separation (HPFS) framework based on partial feature exchange and the constraints of multiple loss functions. Moreover, we create a multiple light intensities driver emotion recognition (MLI-DER) dataset and conduct a great deal of experiments on the dataset to verify that  our method can overcome the interference of illumination changes. In addition, some cross-subject emotion recognition experiments are conducted on two public facial expression recognition dataset FACES and Oulu-CASIA to further demonstrate that our method can largely alleviate the interference of individual difference by comparing the experimental results with that of some state-of-the-art methods.
 
-multiple light intensities driver emotion recognition (MLI-DER) dataset
+Multiple light intensities driver emotion recognition (MLI-DER) dataset
 -------
 ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg)
 Fig. 1 The data acquisition system of the MLI-DER dataset.
@@ -13,4 +13,5 @@ To verify that the proposed driver emotion recognition method can adapt to diffe
 ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/sample.jpg)
 Fig. 2 Sample presentation of the MLI-DER dataset. In the figure, the four columns of samples are collected under the light intensity of dark, normal, little bright and very bright, respectively. In addition, the first row is image with neutral expression, the second row is image with negative expression, and the third row is image with positive expression.
 
+### multiple light intensities driver emotion recognition (MLI-DER) dataset
 
