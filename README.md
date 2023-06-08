@@ -8,7 +8,7 @@ Multiple light intensities driver emotion recognition (MLI-DER) dataset
 
 <div align="center">
 
-| 表头1  | 表头2|
+| Data acquisition system | Representative samples |
 | ---------- | -----------|
 | 表格单元   | 表格单元   |
 | 表格单元   | 表格单元   |
