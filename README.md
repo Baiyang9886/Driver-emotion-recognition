@@ -5,7 +5,19 @@ Since emotions generally affect driver's behavior, judgment, and reaction time, 
 
 Multiple light intensities driver emotion recognition (MLI-DER) dataset
 -------
-![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg)  ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/sample.jpg)
+
+<div align="center">
+
+| 表头1  | 表头2|
+| ---------- | -----------|
+| 表格单元   | 表格单元   |
+| 表格单元   | 表格单元   |
+
+</div>
+
+
+
+![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg)
 Fig. 1 The data acquisition system of the MLI-DER dataset.
 
 To verify that the proposed driver emotion recognition method can adapt to different light conditions, the MLI-DER dataset is created in this paper. The data acquisition system is shown in Fig. 1, which consists of a set of simulated driving system (Logitech G29), a computer, a camera (Logitech C920 Pro), and data record equipment. In the data collection process, each subject drives a car through the simulated driving system and performs three categories of expressions (negative, neutral, positive) according to the prompts. The camera facing experimental subjects will record the facial video data of drivers during the whole driving process. In addition, we create four scenes with different light intensities (dark, normal, little bright, and very bright) by controlling the light of the laboratory, and a set of data for each subject under the four light intensities are collected, respectively, some instances are shown in Fig. 2. In the process of data processing, we clip the collected videos into video samples according to positive expression, neutral expression, and negative expression. In this paper, we invite 37 subjects (12 female and 25 male) with ages ranging from 21 to 37 and obtain 442 video samples in total after the clipping process. The frame rate and resolution of each video are 20 fps and 640 X 480 pixels. In the experiments of this paper, the keyframes are captured from each video, and a total of 4451 image samples are obtained finally.
