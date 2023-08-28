@@ -22,9 +22,11 @@ The MLI-DER dataset has been publicly released to all researchers of the relevan
 
 ### Citation
 (1) APA
+
 Yang, L., Yang, H., Hu, B. B., Wang, Y., & Lv, C. (2023). A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separation. IEEE Transactions on Intelligent Transportation Systems. 2023, early access, DOI: 10.1109/TITS.2023.3304128.
 
 (2) BibTeX
+
 @article{yang2023robust,
   title={A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separation},
   author={Yang, Lie and Yang, Haohan and Hu, Bin-Bin and Wang, Yan and Lv, Chen},
